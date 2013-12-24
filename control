@@ -1,0 +1,11 @@
+Package: com.rpetrich.udidalerter
+Name: UDIDAlerter
+Version: 0.1
+Architecture: iphoneos-arm
+Description: UDID test app
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Ryan Petrich <rpetrich+udidalerter@gmail.com>
+Depends: mobilesubstrate, firmware (>= 5.0)
+Section: Tweaks
+Icon: file:///System/Library/PreferenceBundles/Wallpaper.bundle/icon.png
+dev: rpetrich
